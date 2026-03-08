@@ -1,4 +1,4 @@
-# Kelompok-3_METKOM-2
+# Kelompok-3_Metoda-Komputasi-II
 # Nama Anggota Kelompok
 1. Gani Abdan Syakuran (H061241053)
 2. 
