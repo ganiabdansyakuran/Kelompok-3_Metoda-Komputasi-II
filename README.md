@@ -5,7 +5,7 @@
 3. Hermita Lestari (H061241062)
 4. Hardis Hero Pratama (H061241068)
 5. Andi Tri Lestari (H061241055)
-6. 
+6. Dela Shinta Sumomba (H061241065)
 
 
 Repositori ini bertujuan untuk menyimpan proses coding dalam mata kuliah Metoda Komputasi II
