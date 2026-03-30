@@ -7,6 +7,9 @@
 5. Andi Tri Lestari (H061241055)
 6. Dela Shinta Sumomba (H061241065)
 7. Abednego Rungngun Pasorong (H061241063)
+8. Syauqi Asadul Haq (H061241052)
+9. Muh. Tenri Kahfi Gamal P (H061241084)
+10. Machyta Ahmad (H061221020)
 
 
 Repositori ini bertujuan untuk menyimpan proses coding dalam mata kuliah Metoda Komputasi II
