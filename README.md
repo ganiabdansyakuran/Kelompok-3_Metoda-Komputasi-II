@@ -10,6 +10,9 @@
 8. Syauqi Asadul Haq (H061241052)
 9. Muh. Tenri Kahfi Gamal P (H061241084)
 10. Machyta Ahmad (H061221020)
+11. Mifta Al Fadil (H061241048)
+12. Muh.Arjuna (H061241074)
+13. Haikal Pratama (H061241058)
 
 
 Repositori ini bertujuan untuk menyimpan proses coding dalam mata kuliah Metoda Komputasi II
